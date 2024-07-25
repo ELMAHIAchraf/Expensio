@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Food",
+    "color": "#FF914E",
+    "backgroundColor": "#5C3822",
+    "icon": "fa-solid fa-burger-cheese"
+  },
+  {
+    "id" : 2,
+    "name" : "Entertainment",
+    "color" : "#55B9FF",
+    "backgroundColor": "#005189",
+    "icon" : "fa-solid fa-ticket"
+  },
+  {
+    "id" : 3,
+    "name" : "Shopping",
+    "color" : "#C09BF9",
+    "backgroundColor": "#222255",
+    "icon" : "fa-solid fa-bag-shopping"
+  },
+  {
+    "id" : 4,
+    "name" : "Transportation",
+    "color" : "#00DAC6",
+    "backgroundColor": "#124241",
+    "icon" : "fa-solid fa-train-tram"
+  },{
+  "id" : 5,
+  "name" : "Rent",
+  "color" : "#F0E786",
+  "backgroundColor": "#6A6312",
+  "icon" : "fa-solid fa-house"
+},
+  {
+    "id" : 6,
+    "name" : "Utilities",
+    "color" : "#67FFAD",
+    "backgroundColor": "#0C6C38",
+    "icon" : "fa-solid fa-bolt"
+  },
+  {
+    "id" : 7,
+    "name" : "Healthcare",
+    "color" : "#FF495B",
+    "backgroundColor": "#682C2B",
+    "icon" : "fa-solid fa-notes-medical"
+  },
+  {
+    "id" : 8,
+    "name" : "Savings",
+    "color" : "#FF6CCD",
+    "backgroundColor": "#4D102A",
+    "icon" : "fa-solid fa-piggy-bank"
+  }
+]
